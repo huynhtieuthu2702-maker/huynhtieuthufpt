@@ -8,7 +8,7 @@ import {
   runMission1Evaluate,
   runMission3Check,
   runMission4Evaluate,
-} from './server/geminiHandlers';
+} from './api/_lib/geminiHandlers.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);

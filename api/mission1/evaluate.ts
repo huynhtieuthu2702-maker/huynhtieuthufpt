@@ -1,4 +1,4 @@
-import { runMission1Evaluate } from '../../server/geminiHandlers';
+import { runMission1Evaluate } from '../_lib/geminiHandlers.js';
 
 interface VercelReq {
   method?: string;

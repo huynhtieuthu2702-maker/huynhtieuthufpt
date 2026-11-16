@@ -1,4 +1,4 @@
-import { runMission3Check } from '../../server/geminiHandlers';
+import { runMission3Check } from '../_lib/geminiHandlers.js';
 
 interface VercelReq {
   method?: string;

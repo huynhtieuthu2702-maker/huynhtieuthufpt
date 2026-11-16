@@ -1,4 +1,4 @@
-import { getApiKey } from '../server/geminiHandlers';
+import { getApiKey } from './_lib/geminiHandlers.js';
 
 interface VercelReq {
   method?: string;
