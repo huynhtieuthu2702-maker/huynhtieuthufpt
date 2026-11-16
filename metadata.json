@@ -1,0 +1,6 @@
+{
+  "name": "AI Cần Cứu Trợ!",
+  "description": "Trò chơi giáo dục tương tác môn Tin học lớp 3 giúp học sinh rèn luyện kỹ năng sử dụng bàn phím và gõ tiếng Việt đúng cách cùng robot AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
